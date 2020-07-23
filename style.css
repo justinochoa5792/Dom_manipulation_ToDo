@@ -1,0 +1,15 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+p {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
